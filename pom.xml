@@ -25,6 +25,7 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>2.3.2</version>
             <configuration>
+               <executable>C:\Program Files\Java\jdk-11.0.7\bin\javac.exe</executable>
                <source>11.0.7</source>
                <target>11.0.7</target>
             </configuration>
